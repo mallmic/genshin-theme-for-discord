@@ -1,0 +1,1 @@
+# genshin-theme-for-discord
